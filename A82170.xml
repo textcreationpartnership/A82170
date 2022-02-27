@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Kings Maiesties Army in the North of England: concerning, their present designe and engagement for the King, and the re-investing of him in his Royall throane. With their resolution touching the late businesse in Wales, and the burning of commissions in the North. Together, with the proceedings of Major Generall Laughorne, and the protestation of the Brittish forces in Wales.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82170</idno>
+            <idno type="STC">Wing D694</idno>
+            <idno type="STC">Thomason E442_23</idno>
+            <idno type="STC">ESTC R204704</idno>
+            <idno type="EEBO-CITATION">99864169</idno>
+            <idno type="PROQUEST">99864169</idno>
+            <idno type="VID">116391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82170)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116391)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 70:E442[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Kings Maiesties Army in the North of England: concerning, their present designe and engagement for the King, and the re-investing of him in his Royall throane. With their resolution touching the late businesse in Wales, and the burning of commissions in the North. Together, with the proceedings of Major Generall Laughorne, and the protestation of the Brittish forces in Wales.</title>
+                  <author>Laugharne, Rowland, d. 1676.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.W.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116391:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>A DECLARATION OF THE Kings Maieſties Army IN THE NORTH OF ENGLAND: CONCERNING, Their preſent Deſigne and Engagement for the King, and the re-inveſting of him in his Royall Throane.</p>
+            <p>WITH, Their Reſolution touching the late buſineſſe in <hi>Wales,</hi> And the burning of Commiſſions in the North.</p>
+            <p>TOGETHER, With the proceedings of Major Generall <hi>Laughorne,</hi> and the Proteſtation of the <hi>Brittiſh</hi> Forces in <hi>Wales.</hi>
+            </p>
+            <p>LONDON, Printed for R. W. MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:116391:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:116391:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>THE DECLARATION Of the Kings Maieſties Army <hi>in the North of</hi> England.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince the laſt of the ninth of this in<g ref="char:EOLhyphen"/>ſtant, we have received exceeding good newes from <hi>Wales,</hi> that the diſmall Cloud is now diſſolved, and the inſolent Enemy, almoſt quit vanquiſhed: for by a poſt from thence, to Major Gen. <hi>Lambert,</hi> our Governour) it was advertiſed, that the Parliments Party wounded by Collonell <hi>Horton,</hi> hath given a great Defeat to the Enemy, and routed, and ſcattered moſt of them; inſomuch, that he is become Ma<g ref="char:EOLhyphen"/>ſter of the greateſt part of the Principality of <hi>Wal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> newes did not a little elevate, and ſtirre up the hearts of the well affected, in theſe parts, who rejoyced
+<pb n="2" facs="tcp:116391:3"/>
+               <!-- PDF PAGE 31 -->
+and tryumphed at the tydings thereof, looking upon it to bee a thing of great conſequence and high concernement; and indeed ſo it was; for it was the chiefeſt originall of the now preſent diſtractions in the North of England, and the maine courſe of moving them thereunto: but the great ſticklers there, do now endeavour to make inviſible their former late actions and poceedings; for by intelligence from thoſe parts (as alſo the conformation of ſeveral parts) we are advertiſed, that Col: <hi>Grey</hi> (formerly a great Commander in the Kings Army) upon the receipt of theſe heavy tidings from Wales, changed his reſoluti<g ref="char:EOLhyphen"/>on from being Lieu: Gen: ſo Sir <hi>Marmaduke Langdale,</hi> of the five Northerne Counties, and utterly diſſerted that deſigne and ſervice, proteſting againſt the ſame, We heare alſo, that one Lieu: Col: <hi>Foggin,</hi> hath de<g ref="char:EOLhyphen"/>clared againſt the Deſigned and Engagement of <hi>Lang<g ref="char:EOLhyphen"/>dale, Glemham, Tildſley,</hi> and <hi>Muſgrave,</hi> notwithſtan<g ref="char:EOLhyphen"/>ding the Commiſſion lately given him by ſir <hi>Marma: Langdale,</hi> the deſigne Generall (by the Prince) and it is ſaid, that in defiance to to <hi>Lengdale,</hi> hee tooke the Commiſſion, (in the preſence of divers Northerne Gentelmen,) and threw it into the fire, ſaying, that if he had <hi>Langdale</hi> there, he would quell his fiery ſpi<g ref="char:EOLhyphen"/>rits, and uſe his utmoſt endeavours for the ſuppreſ<g ref="char:EOLhyphen"/>ſing of his inſolent carriage, both toward King, Par<g ref="char:EOLhyphen"/>liament, and Kingdome. Sir, this is all for the preſent,</p>
+            <closer>
+               <dateline>Yorke <date>11. of <hi>April,</hi> 1648.</date>
+               </dateline>
+               <signed>
+                  <hi>From your aſſured Friend</hi> Tho: Higgins</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="3" facs="tcp:116391:3"/>
+            <!-- PDF PAGE 31 -->
+            <head>The Declaration and Propoſalls of Major Generall <hi>Laughorne,</hi> Colo<g ref="char:EOLhyphen"/>nell <hi>Iohn Poyer,</hi> Colonell <hi>Rice Pow<g ref="char:EOLhyphen"/>ell,</hi> and the reſt of the Officers, and Souldiers in <hi>South-VVales.</hi>
+            </head>
+            <p>TO that we will uſe our beſt Endeavours to bring the King to a perſonall Treaty with his Parl. with Freedom, Honour, and Safety; and that we will endeavour to ſettle the juſt Prerogative of the King, Priviledges of Parliament, Lawes of the Land, and li<g ref="char:EOLhyphen"/>berties of the peope, may be all maintained and pre<g ref="char:EOLhyphen"/>ſerved in their proper bounds; and the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, as it ſtands eſtabliſhed by the Law of the Land, reſtored throughout the Kingdom, with ſuch regard to be had of tender Conſciences, as ſhall be allowed by Act of Parliament.</p>
+            <p>
+               <hi>YOu that will either give conſent to this Declaration, and joyne with us in effecting it; or if you ſhall not think fit ſo to do, then not to reveale or prejudice our Oath: and if you do conſent to it, then to joyne with us in Councel, not &amp; to
+<pb n="4" facs="tcp:116391:4"/>
+                  <!-- PDF PAGE 32 -->
+reveale our Secrets to any ſo long as they are Secrets, but to thoſe whom you think fit to reveale them to for the furthering of the buſineſse, and thoſe to be ſuch as you do believe to be well-affected to us, and will not betray or reveale our Secrets.</hi>
+            </p>
+         </div>
+         <div type="letters">
+            <head>Two Letters from Major Generall <hi>Laughorne,</hi> to Colonell <hi>Thomas Horton,</hi> and the Commiſsioners of Parliament, concerning their fur<g ref="char:EOLhyphen"/>ther proceedings in their preſent Deſigne and Engagement.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I Deſire you would let me know by what power you firſt came, and ſtill remain in theſe Counties of my Aſſoci<g ref="char:EOLhyphen"/>ation, being Commiſſioned, Comman<g ref="char:EOLhyphen"/>der in chiefe of theſe parts, by an Ordinance of Parliament and upon what grounds the Injury of ſeizing on ſome of my Troop was
+<pb n="5" facs="tcp:116391:4"/>
+                     <!-- PDF PAGE 32 -->
+offered, and the taking of the whole attem<g ref="char:EOLhyphen"/>pted, without ſatisfaction rendred them in point of pay, according to the Inſtructions of Parliament to the Commiſſioners for Disbanding ſuch Supernumeraries: I ſhould gladly be ſatisfyed in theſe particulars, other<g ref="char:EOLhyphen"/>wiſe your perſeverance in theſe Affronts to my ſelfe, and the Souldiery, and the Coun<g ref="char:EOLhyphen"/>trey, will not be without ſome difficulty. Sir, if you pleaſe to withdraw your forces out of this County, it may be a ſpeciall meanes to prevent ſeverall inconveniences, beſides the neceſſary Reſolutions which otherwiſe muſt be forced upon,</p>
+                  <closer>
+                     <salute>Sir,</salute>
+                     <signed>your Servant, <hi>Row: Laughorne.</hi>
+                     </signed> 
+                     <dateline>
+                        <hi>St. Nicholas,</hi>
+                        <date>4. <hi>of May,</hi> 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Gentlemen,</salute>
+                  </opener>
+                  <p>
+                     <hi>J</hi> Cannot be ignorant how the ſole Command of theſe Aſſociated Coun<g ref="char:EOLhyphen"/>ties was conferred upon me by Ordi<g ref="char:EOLhyphen"/>nance of Parliament, nor of the injuries and affronts put upon my men, in ſtead of
+<pb n="6" facs="tcp:116391:5"/>
+                     <!-- PDF PAGE 33 -->
+receiving their pay allowed them by the Parliament, and agreed upon by ſome of your ſelves. Truly, J was very confident my paſt ſervice for your Countrey, had merited much better of you, then that ſuch miſcarriages ſhould happen in my abſence, and to your knowledge unrighted: However, if you pleaſe to appeare with your Countrey, and to continue your endea<g ref="char:EOLhyphen"/>vours in prevention of the ſlavery threat<g ref="char:EOLhyphen"/>ned it, you ſhall not faile of the moſt effe<g ref="char:EOLhyphen"/>ctual aſsiſtance ſhall lie in the power of,</p>
+                  <closer>
+                     <salute>Gentlemen,</salute>
+                     <signed>Your humble Servant, ROWLAND LAUGHORNE.</signed>
+                     <dateline>
+                        <hi>St. Nicholas,</hi>
+                        <date>
+                           <hi>4. May. 1648.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>SInce my laſt, concerning the proceedings in <hi>Wales</hi> Sir <hi>Marmaduke Langdale,</hi> and the reſt of the Com<g ref="char:EOLhyphen"/>manders in the <hi>North,</hi> who now acts (under a pretence) for the King, ſince the receipt of the ſaid tydings from <hi>Wales,</hi> have declared, that they will live and dye for the King, &amp; uſe their utmoſt endeavours for the re-inthroning of him, and reſtoring of him to his rights and priveledges, with diverſe other circumſtances to this effect, and the better to accom<g ref="char:EOLhyphen"/>pliſh their deſignes, have ſummoned in the Countries adja<g ref="char:EOLhyphen"/>cent; declaring that the late rumor, touching the buſineſſe of <hi>Wales</hi> is falſe, and that it is only raiſed for the obſtructing of the preſent proceedings of the Kings Army in thoſe parts.</p>
+                  <closer>
+                     <salute>Sir</salute> 
+                     <signed>
+                        <hi>I am, Yours to command,</hi> T. L.</signed> 
+                     <dateline>
+                        <hi>Yorke</hi>
+                        <date>11. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:116391:5"/>
+            <!-- PDF PAGE 33 -->
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
